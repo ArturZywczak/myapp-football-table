@@ -1,0 +1,17 @@
+﻿@page "/logs"
+@rendermode InteractiveServer
+
+<h3>Czas: @Elapsed s</h3>
+
+<input type="range" min="0" max="@MatchdayLength" value="@Elapsed"
+       @oninput="OnSeek" />
+
+<button @onclick="Play">▶ Play</button>
+<button @onclick="Pause">⏸ Pause</button>
+<button @onclick="Reset">⏹ Reset</button>
+
+<ul>
+    @foreach (var log in VisibleLogs) {
+        <li>[@log.PopAt s] @log.Message (@log.Type)</li>
+    }
+</ul>

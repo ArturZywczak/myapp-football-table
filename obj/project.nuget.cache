@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3v+RQ6IX4uk=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\myapp\\apps\\FootballTableApp\\FootballTableApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\webox\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

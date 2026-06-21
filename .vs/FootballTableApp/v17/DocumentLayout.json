@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\myapp\\apps\\FootballTableApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\components\\pages\\logs.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:components\\pages\\logs.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\components\\pages\\logs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:components\\pages\\logs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|c:\\projects\\myapp\\apps\\footballtableapp\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD84DF55-48AF-4E55-9C8F-A7B14A805463}|FootballTableApp.csproj|solutionrelative:models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T15:28:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:45:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-21T08:45:21.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Models\\LogEntry.cs",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Models\\LogEntry.cs",
+              "RelativeToolTip": "Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:26:33.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Services\\LogService.cs",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Services\\LogService.cs",
+              "RelativeToolTip": "Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:02:14.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logs.razor.cs",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Components\\Pages\\Logs.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Logs.razor.cs",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Components\\Pages\\Logs.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Logs.razor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:02:54.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logs.razor",
+              "DocumentMoniker": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Components\\Pages\\Logs.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Logs.razor",
+              "ToolTip": "C:\\Projects\\myapp\\apps\\FootballTableApp\\Components\\Pages\\Logs.razor",
+              "RelativeToolTip": "Components\\Pages\\Logs.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T16:19:29.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
