@@ -19,4 +19,5 @@ RUN dotnet publish "./FootballTableApp.csproj" -c $BUILD_CONFIGURATION -o /app/p
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+ENV ASPNETCORE_HTTP_PORTS=5003
 ENTRYPOINT ["dotnet", "FootballTableApp.dll"]
